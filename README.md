@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bartekbytes (real name: Bartek)
 - 👀 I’m interested in Data Engineering & Analytics | Data Architecture & Governance | Modern Data Stack | Business Intelligence | DevOps & DataOps | Travelling (big cities, (Southeast) Asia) | Photography (cityscapes) | Cooking (Asian fusion) | Reading (sci-fi, fantasy, current affairs)
-- 🌱 I’m currently learning Data Engineering, AI, LLMs
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on projects connected with my above interests
 - 📫 How to reach me ...
 
